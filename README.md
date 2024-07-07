@@ -1,13 +1,5 @@
 # super-duper-tiny
-Contains source code for my TinyML project
+Contains source code for my TinyML project. Using Selenium I built a driver for an arduino to emulate keypresses. Using this, you can play Stick Cricket using a stick. 
 
 
-## List of project ideas
-
-1. Virtual Guitar.
-2. Bowling consistency. Length.
-3. Analyze type of cricket shot.
-4. Laundary Protector System
-5. Gym Form detector
-6. Lens Smart Glass with Wake word detection and GPT model linked.
-7. Magic wand
+Note that all the code is still a bit unorganized. If you need help with this project, contact me at my personal website: dsnum1.github.io/personal_website.
